@@ -1,0 +1,26 @@
+{
+  "name": "backend-absen-karyawan",
+  "version": "1.0.0",
+  "description": "Reksa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windaperdana/backend-absen-karyawan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windaperdana/backend-absen-karyawan/issues"
+  },
+  "homepage": "https://github.com/windaperdana/backend-absen-karyawan#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.0",
+    "express-validator": "^6.14.0",
+    "mysql2": "^2.3.3"
+  }
+}
